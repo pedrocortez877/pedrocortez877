@@ -1,4 +1,4 @@
-### Olá 👋, meu nome é Pedro Cortez e atualmente trabalho como Desenvolvedor Full-stack
+### Olá 👋, meu nome é Pedro Cortez e atualmente trabalho como Desenvolvedor React Native Pleno
 
 <div align="center">
   <a href="https://github.com/pedrocortez877">
